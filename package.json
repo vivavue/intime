@@ -1,0 +1,21 @@
+{
+  "name": "intime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://vivavue.github.io/intime",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }, 
+  "browserslist": [
+    "last 2 versions",
+    "> 1%",
+    "IE 10"
+  ]
+}
